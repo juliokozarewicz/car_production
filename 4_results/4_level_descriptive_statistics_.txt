@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: Car Production (level)
+Mean: 157581.94
+Median: 163390.50
+Sample std: 32043.64
+Variance: 1026794637.86
+Lowest: 39487.00
+Highest: 215154.00
+--------------------------------------------------
